@@ -98,7 +98,30 @@ for number in range(1 , 4): #You can add a step here by adding a third arguement
     print("Attempt" , number , (number) * ".")
 
 # 3.9
+#For-Else Loops
+successful = True
+for number in range (3):
+    print("attempt")
+    if successful:
+        print("Successful")
+        break
+else:
+    print("Attempted 3 times and failed.")
+
+#3.10
+#Nested Loops
+for x in range (5):
+    for y in range (3):
+        print(f"{x}, {y}")
 
 
+#3.11
+#iterables
+print(type(5))
+print(type(range(4)))
 
+#returns range type | complex types this is iterable
+
+#3.12
+#While loops
 
