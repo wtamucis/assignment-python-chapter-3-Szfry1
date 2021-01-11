@@ -72,6 +72,33 @@ if 18 <= age < 65:
 
 # Even though they are written differently - These mean the same thing
 # The second one is just using math
-\
+
+# 3.7 QUIZ
+
+if 10 == "10":
+    print("a")
+elif "bag" > "apple" and "bag" > "cat":
+    print("b")
+else: 
+    print("c")
+# this should print c when ran
+
+# Chapter 3.8 - Mosh ebook
+#For Loops
+
+# print("Sending a message")
+
+for number in range(3):
+    print("Attempt" , number + 1, (number + 1) * ".")
+
+# A cleaner version of this that uses the range function looks like this below
+
+
+for number in range(1 , 4): #You can add a step here by adding a third arguement
+    print("Attempt" , number , (number) * ".")
+
+# 3.9
+
+
 
 
