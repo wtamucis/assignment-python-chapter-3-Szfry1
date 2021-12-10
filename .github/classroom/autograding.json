@@ -3,12 +3,12 @@
     {
       "name": "birthstone",
       "setup": "",
-      "run": "Python3 birthstone.py",
+      "run": "Python birthstone.py",
       "input": "1",
       "output": "garnet",
       "comparison": "included",
       "timeout": 2,
-      "points": null
+      "points": 100
     }
   ]
 }
