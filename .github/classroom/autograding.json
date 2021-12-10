@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python3 birthstone.py",
       "input": "1",
-      "output": "garnet\r\nGarnet",
+      "output": "Garnet",
       "comparison": "included",
       "timeout": 2,
       "points": 100
