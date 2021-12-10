@@ -3,7 +3,7 @@
     {
       "name": "birthstone",
       "setup": "",
-      "run": "Python birthstone.py",
+      "run": "python3 birthstone.py",
       "input": "1",
       "output": "garnet",
       "comparison": "included",
